@@ -52,5 +52,5 @@ This is a great example of how Excel can still be a powerful tool for early-stag
 ---
 
 ## 📬 Contact: 
-- [LinkedIn](https://www.linkedin.com/in/Sajjad-Qureshi/)  
-- Email: qsajjad485@gmail.com  
+- 🔗 [LinkedIn – Sajjad Qureshi](https://www.linkedin.com/in/Sajjad-Qureshi/)  
+- 📧 Gmail: qsajjad485@gmail.com 
